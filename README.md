@@ -24,7 +24,7 @@ Virtualization 2.0 Tutorial
 [ ] Virtualization 2.0 - Microsoft HyperV
 [ ] VMware Workstation Player
 [ ] Virtualization 2.0 - VirtualBox
-[ ] Virtualization 2.0 - Openstack
+[x] Virtualization 2.0 - Openstack
 [ ] Preparing the Infrastructure
 [ ] Virtualization 2.0 - Troubleshooting
 [ ] Backing Up, Restoring & Migrating VM
